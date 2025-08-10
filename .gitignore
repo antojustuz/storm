@@ -60,3 +60,28 @@ hs_err_pid*
 # Test jars for zip slip
 !/storm-server/src/test/resources/evil-path-traversal.jar
 !/storm-server/src/test/resources/evil-path-traversal-resources.jar
+
+# Xcode
+build/
+DerivedData/
+*.xcworkspace/
+*.xcuserdatad/
+*.xcuserstate
+*.xcscmblueprint
+
+# Swift Package Manager
+.build/
+Packages/
+
+# User settings
+*.swp
+.DS_Store
+
+# iOS
+*.ipa
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/

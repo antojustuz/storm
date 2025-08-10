@@ -1,0 +1,1 @@
+You can place shared UI components here (e.g., progress rings, reusable buttons).
